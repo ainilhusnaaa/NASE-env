@@ -1,0 +1,11 @@
+{
+    "name": "Your Dev Container Name",
+    "image": "quay.io/centos/centos:stream8",
+    "settings": {
+      "terminal.integrated.shell.linux": "/bin/bash"
+    },
+    // Add any additional settings or extensions you need
+    "extensions": [
+      // Add extensions here
+    ]
+  }
